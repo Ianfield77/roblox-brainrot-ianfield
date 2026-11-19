@@ -1,4 +1,7 @@
-// A working roblox-brainrot-01 entry (Node 22, standard library only): the game is this directory's Rojo
+// Brainrot Bazaar: a 3D Steal-a-Brainrot-style game. Twelve original brainrot
+// characters walk the belt, players buy them onto their base, money ticks every
+// second, and a noodle tsunami sweeps the plaza while thieves prowl the bases.
+// Built with Rojo from src/ (see README.md), game.rbxl is the built place.
 // project, built into game.rbxl with `rojo build default.project.json --output game.rbxl`, and the program
 // hands it in. It copies game.rbxl, src/, screenshots/ and PLAY.json from beside this file to /output and
 // writes /output/dossier.json, the summary the judge reads, with the vendored make.fun library. A starting
